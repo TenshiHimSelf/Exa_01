@@ -40,9 +40,6 @@ def FullOuterJoin(vec1, vec2):
 
 resultFullOuterJoin = FullOuterJoin(vec1, vec2)
 
-
-
-
 def RightJoin(vec1, vec2):
     exit = []
 

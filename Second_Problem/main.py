@@ -1,5 +1,4 @@
 import random
-
 # store random values into libraries
 def iniCubo(cb):
     for fil in range(3):  # Only 2 workers
